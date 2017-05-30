@@ -1,1 +1,1 @@
-# csope_vim
+# cscope_vimPaste in ~/.vim/plugin
